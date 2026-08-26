@@ -25,12 +25,17 @@ The project consists of two main layers:
 
 * **Frontend:** Electron, HTML5, CSS3, JavaScript
 * **Backend:** Python, Flask, PyInstaller
+  
 
 ---
+<p align="center">
+  <img src="https://resimlink.com/PbsI4nOLEc7M" alt="Görsel" width="600">
+</p>
 
 ## 🚀 Development and Execution
 
 You can follow the steps below to run or develop the project in your local environment.
+
 
 ### Requirements
 
