@@ -28,8 +28,8 @@ The project consists of two main layers:
   
 
 ---
-<p align="center">
-  <img src="https://resimlink.com" alt="Görsel" width="600">
+<p style="text-align: center;">
+  <img src="https://resimlink.com/PbsI4nOLEc7M" alt="Görsel" width="600">
 </p>
 
 
