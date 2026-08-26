@@ -29,8 +29,11 @@ The project consists of two main layers:
 
 ---
 <p align="center">
-  <img src="https://resimlink.com/PbsI4nOLEc7M.png" alt="Görsel" width="600">
+  <a href="https://resimlink.com/PbsI4nOLEc7M">
+    <img src="https://resimlink.com" alt="Görsel" width="600">
+  </a>
 </p>
+
 
 ## 🚀 Development and Execution
 
