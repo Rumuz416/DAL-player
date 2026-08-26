@@ -1,4 +1,3 @@
-A sleek, modern, and interactive web-based music player built with Python (Flask) and yt-dlp. It features a custom Glassmorphism UI, a reactive grid background, dynamic album artwork extraction, and continuous audio playback powered by a local Flask proxy stream to bypass YouTube 403 restrictions. Includes full playlist management with one-click track removal and automatic next-track queuing.
-
-Plaintext
-py app.py
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
+[![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.png)](https://github.com/firstcontributions/open-source-badges)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yK8r7uXbAE)
